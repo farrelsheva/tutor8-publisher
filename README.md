@@ -8,3 +8,5 @@ Kedua URI sama, namun pada kasus publisher akan mengirim messsage ke queue, seda
 ![rabbitmq screenshot](Image-1.png)
 
 ![Subscriber and publisher interaction](Image-2.png)
+
+![Monitoring Spikes](Image-3.png)
