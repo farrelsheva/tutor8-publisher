@@ -6,3 +6,5 @@
 Kedua URI sama, namun pada kasus publisher akan mengirim messsage ke queue, sedangkan subscriber akan mengambil message dari queue tersebut.
 
 ![rabbitmq screenshot](Image-1.png)
+
+![Subscriber and publisher interaction](Image-2.png)
